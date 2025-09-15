@@ -25,7 +25,7 @@ aryavedantha05@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top">SpacePong is a 2D arcade game inspired by the classic Pong. In this game, players control paddles to deflect a meteor ball and prevent it from crossing their defense line. Each time the meteor successfully passes through the opponent’s defense, the player scores a point. The match continues until one of the players reaches a certain score (e.g., 10), and that player is declared the winner.</td> <!--desc-->
+      <td valign="text-top">SpacePong is a 2D arcade game inspired by the classic Pong. In this game, players control paddles to deflect a meteor ball and prevent it from crossing their defense line. Each time the meteor successfully passes through the opponent’s defense, the player scores a point. The match continues until one of the players reaches a certain score, and that player is declared the winner.</td> <!--desc-->
       <td valign="text-top">Jagat Wars is a 2D top-down shooter that takes players into intense battles on the sky. You pilot a combat spaceship, tasked with taking down waves of enemy ships. With fast-paced shooting mechanics, agile maneuvers, and increasingly challenging enemies, the game tests your reflexes, precision, and strategy as you fight for survival and dominance in sky.</td> <!--desc-->
     </tr>
     <tr>
