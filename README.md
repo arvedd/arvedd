@@ -56,7 +56,7 @@ aryavedantha05@gmail.com
         <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhjc2EzcHh3eXRsaHJ6MGV5Y3p6NGM4dmh0aXU5cWM3bmVoaXBydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JhPx1qaFPgHY54t4qt/giphy.gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="[https://www.shevia.id/assets/img/product/shevia-ar/1.png](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhjc2EzcHh3eXRsaHJ6MGV5Y3p6NGM4dmh0aXU5cWM3bmVoaXBydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JhPx1qaFPgHY54t4qt/giphy.gif)" alt="2" style="width:100%;height:auto;">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhjc2EzcHh3eXRsaHJ6MGV5Y3p6NGM4dmh0aXU5cWM3bmVoaXBydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JhPx1qaFPgHY54t4qt/giphy.gif" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
