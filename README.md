@@ -64,7 +64,7 @@ aryavedantha05@gmail.com
       <td valign="text-top">-</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="[https://www.shevia.id/Product/SheviaFire](https://github.com/arvedd/LC-Git-SideScroll)">Read More</a></td>
+      <td align="center"><a href="https://github.com/arvedd/LC-Git-SideScroll">Read More</a></td>
 <!--       <td align="center"><a href="https://www.shevia.id/Product/SheviaAR">Read More</a></td>  -->
     </tr>
     <tr>
