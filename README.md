@@ -46,7 +46,7 @@ aryavedantha05@gmail.com
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Knight Trial</a></th>
+      <th width="50%" align="center"><a>Knight's Trial</a></th>
 <!--       <th width="50%" align="center"><a>Soon</a></th>  -->
     </tr>
   </thead>
@@ -60,7 +60,7 @@ aryavedantha05@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Knight Trial is a 2D side-scrolling action game where you play as a valiant knight battling endless waves of enemies. The game doesn’t end until you fall — every fight is a test of endurance. Defeat as many foes as you can, rack up your score, and push yourself to survive longer with each run.</td> <!--desc-->
+      <td valign="text-top">Knight's Trial is a 2D side-scrolling action game where you play as a valiant knight battling endless waves of enemies. The game doesn’t end until you fall — every fight is a test of endurance. Defeat as many foes as you can, rack up your score, and push yourself to survive longer with each run.</td> <!--desc-->
       <td valign="text-top">-</td> <!--desc-->
     </tr>
     <tr>
