@@ -46,21 +46,21 @@ aryavedantha05@gmail.com
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Sidescroll</a></th> <!--tittle 3-->
+      <th width="50%" align="center"><a>Knight’s Trial</a></th> <!--tittle 3-->
 <!--       <th width="50%" align="center"><a>Soon</a></th>  -->
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://www.shevia.id/assets/img/product/shevia-fire/3.png" alt="1" style="width:100%;height:auto;">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhjc2EzcHh3eXRsaHJ6MGV5Y3p6NGM4dmh0aXU5cWM3bmVoaXBydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JhPx1qaFPgHY54t4qt/giphy.gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="https://www.shevia.id/assets/img/product/shevia-ar/1.png" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Shevia Fire is a safety training application utilizing Virtual Reality platforms like Meta Quest 3. It features modules on using fire blankets, as well as handling indoor and outdoor fire scenarios. The application was developed in under two months. As the Project Lead, I was responsible for task delegation, timeline management, and product design.</td> <!--desc-->
+      <td valign="text-top">Knight’s Trial is a 2D side-scrolling action game where you play as a valiant knight battling endless waves of enemies. The game doesn’t end until you fall — every fight is a test of endurance. Defeat as many foes as you can, rack up your score, and push yourself to survive longer with each run.</td> <!--desc-->
       <td valign="text-top">-</td> <!--desc-->
     </tr>
     <tr>
