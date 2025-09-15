@@ -21,7 +21,7 @@ aryavedantha05@gmail.com
         <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM0ZW90ZG15bmF2bTZ4dW9vYnh1NjA2eHMya3lzbTh5ZjYybWtsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wtaRkBEnx9PSnKh1vi/giphy.gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="" alt="2" style="width:100%;height:auto;">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHk2NGZha2gwcTZxaWhoaHE1NTBtazRsYTM5cjdtaW96a2FhYzF6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Kg3K5ILx70CF55M8b/giphy.gif" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
