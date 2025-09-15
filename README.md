@@ -46,7 +46,7 @@ aryavedantha05@gmail.com
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Knight’s Trial</a></th>
+      <th width="50%" align="center"><a>Knight Trial</a></th>
       <th width="50%" align="center"><a>Soon</a></th> 
     </tr>
   </thead>
