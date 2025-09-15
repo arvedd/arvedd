@@ -53,14 +53,14 @@ aryavedantha05@gmail.com
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhjc2EzcHh3eXRsaHJ6MGV5Y3p6NGM4dmh0aXU5cWM3bmVoaXBydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JhPx1qaFPgHY54t4qt/giphy.gif" alt="3" style="width:100%;height:auto;">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhjc2EzcHh3eXRsaHJ6MGV5Y3p6NGM4dmh0aXU5cWM3bmVoaXBydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JhPx1qaFPgHY54t4qt/giphy.gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://www.shevia.id/assets/img/product/shevia-ar/1.png" alt="2" style="width:100%;height:auto;">
+<!--         <img src="https://www.shevia.id/assets/img/product/shevia-ar/1.png" alt="2" style="width:100%;height:auto;"> -->
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Knight’s Trial is a 2D side-scrolling action game where you play as a valiant knight battling endless waves of enemies. The game doesn’t end until you fall — every fight is a test of endurance. Defeat as many foes as you can, rack up your score, and push yourself to survive longer with each run.</td> <!--desc-->
+      <td valign="text-top">Knight Trial is a 2D side-scrolling action game where you play as a valiant knight battling endless waves of enemies. The game doesn’t end until you fall — every fight is a test of endurance. Defeat as many foes as you can, rack up your score, and push yourself to survive longer with each run.</td> <!--desc-->
       <td valign="text-top">-</td> <!--desc-->
     </tr>
     <tr>
