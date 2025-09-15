@@ -46,14 +46,14 @@ aryavedantha05@gmail.com
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Knight’s Trial</a></th> <!--tittle 3-->
+      <th width="50%" align="center"><a>Knight’s Trial</a></th>
       <th width="50%" align="center"><a>Soon</a></th> 
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/arvedd/Knight-s-Trial-Gif/blob/main/gif.gif" alt="3" style="width:100%;height:auto;">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhjc2EzcHh3eXRsaHJ6MGV5Y3p6NGM4dmh0aXU5cWM3bmVoaXBydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JhPx1qaFPgHY54t4qt/giphy.gif" alt="3" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="https://www.shevia.id/assets/img/product/shevia-ar/1.png" alt="2" style="width:100%;height:auto;">
@@ -68,8 +68,8 @@ aryavedantha05@gmail.com
       <td align="center"><a href="https://www.shevia.id/Product/SheviaAR">Read More</a></td> 
     </tr>
     <tr>
-      <td align="center"><a href="https://youtu.be/U301oBPnyCg">Trailer</a></td>
-      <td align="center"><a href="https://youtu.be/6mlfc1Shwas">Trailer</a></td>
+<!--       <td align="center"><a href="https://youtu.be/U301oBPnyCg">Trailer</a></td>
+      <td align="center"><a href="https://youtu.be/6mlfc1Shwas">Trailer</a></td> -->
     </tr>
   </tbody>
 </table>
