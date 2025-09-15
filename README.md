@@ -64,12 +64,12 @@ aryavedantha05@gmail.com
       <td valign="text-top">-</td> <!--desc-->
     </tr>
     <tr>
-<!--       <td align="center"><a href="https://www.shevia.id/Product/SheviaFire">Read More</a></td>
-      <td align="center"><a href="https://www.shevia.id/Product/SheviaAR">Read More</a></td>  -->
+      <td align="center"><a href="https://www.shevia.id/Product/SheviaFire">Read More</a></td>
+      <td align="center"><a href="https://www.shevia.id/Product/SheviaAR">Read More</a></td> 
     </tr>
     <tr>
-<!--       <td align="center"><a href="https://youtu.be/U301oBPnyCg">Trailer</a></td>
-      <td align="center"><a href="https://youtu.be/6mlfc1Shwas">Trailer</a></td> -->
+      <td align="center"><a href="https://youtu.be/U301oBPnyCg">Trailer</a></td>
+      <td align="center"><a href="https://youtu.be/6mlfc1Shwas">Trailer</a></td>
     </tr>
   </tbody>
 </table>
