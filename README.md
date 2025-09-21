@@ -33,8 +33,8 @@ aryavedantha05@gmail.com
       <td align="center"><a href="https://github.com/arvedd/LC-Git-TopDown">Read More</a></td> <!--link2-->
     </tr>
     <tr>
-<!--       <td align="center"><a href="https://www.youtube.com/watch?v=UWn3G_PZ_fA">Trailer</a></td>
-      <td align="center"><a href="https://www.youtube.com/watch?v=MXbSJmlWlX0">Trailer</a></td> -->
+      <td align="center"><a href="https://arviee.itch.io/spacepong">Itch.io Page</a></td>
+      <td align="center"><a href="">Itch.io Page</a></td>
     </tr>
   </tbody>
 </table>
