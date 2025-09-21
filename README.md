@@ -53,10 +53,10 @@ aryavedantha05@gmail.com
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/arvedd/Knight-s-Trial-Gif/blob/main/gif%20(2)%20(1).gif" alt="1" style="width:100%;height:auto;">
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRmZzI2d3U4Ym9sMWRoaGs1MXl1Y3UyeGl1bG1oZjd2cjd2d2g0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C08nPkJMWxpUal1Aq6/giphy.gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRmZzI2d3U4Ym9sMWRoaGs1MXl1Y3UyeGl1bG1oZjd2cjd2d2g0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C08nPkJMWxpUal1Aq6/giphy.gif" alt="2" style="width:100%;height:auto;">
+        <img src="" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
