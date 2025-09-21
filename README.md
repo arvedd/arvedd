@@ -34,7 +34,7 @@ aryavedantha05@gmail.com
     </tr>
     <tr>
       <td align="center"><a href="https://arviee.itch.io/spacepong">Itch.io Page</a></td>
-      <td align="center"><a href="">Itch.io Page</a></td>
+      <td align="center"><a href="https://arviee.itch.io/jagat-wars">Itch.io Page</a></td>
     </tr>
   </tbody>
 </table>
