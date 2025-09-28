@@ -47,7 +47,7 @@ aryavedantha05@gmail.com
   <thead>
     <tr>
       <th width="50%" align="center"><a>Knight's Trial</a></th>
-<!--       <th width="50%" align="center"><a>Soon</a></th>  -->
+      <th width="50%" align="center"><a>SpellType</a></th> 
     </tr>
   </thead>
   <tbody>
@@ -61,11 +61,11 @@ aryavedantha05@gmail.com
     </tr>
     <tr>
       <td valign="text-top">Knight's Trial is a 2D side-scrolling action game where you play as a valiant knight battling endless waves of enemies. The game doesn’t end until you fall — every fight is a test of endurance. Defeat as many foes as you can, rack up your score, and push yourself to survive longer with each run.</td> <!--desc-->
-      <td valign="text-top">-</td> <!--desc-->
+      <td valign="text-top">SpellType is a 2D Top-Down typing-based dungeon crawler game where you play as a young mage learning the forgotten Ancient Language. To cast spells, you must type them correctly, as if reciting mantras from an ancient spellbook. Explore dungeons, recover lost pages of the "Book Name", and face powerful enemies, including the ultimate test against your own mentor.</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/arvedd/LC-Git-SideScroll">Read More</a></td>
-<!--       <td align="center"><a href="https://www.shevia.id/Product/SheviaAR">Read More</a></td>  -->
+      <td align="center"><a href="https://github.com/arvedd/Spelltype">Read More</a></td> 
     </tr>
     <tr>
       <td align="center"><a href="https://arviee.itch.io/knights-trial">Itch.io Page</a></td>
