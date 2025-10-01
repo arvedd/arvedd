@@ -47,7 +47,7 @@ aryavedantha05@gmail.com
   <thead>
     <tr>
       <th width="50%" align="center"><a>Knight's Trial</a></th>
-      <th width="50%" align="center"><a>SpellType</a></th> 
+      <th width="50%" align="center"><a>SpellType (On Going Project)</a></th> 
     </tr>
   </thead>
   <tbody>
