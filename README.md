@@ -69,7 +69,7 @@ aryavedantha05@gmail.com
     </tr>
     <tr>
       <td align="center"><a href="https://arviee.itch.io/knights-trial">Itch.io Page</a></td>
-<!--       <td align="center"><a href="https://youtu.be/6mlfc1Shwas">Trailer</a></td> -->
+      <td align="center"><a href="https://cynora.itch.io/spelltype">Itch.io Page</a></td>
     </tr>
   </tbody>
 </table>
